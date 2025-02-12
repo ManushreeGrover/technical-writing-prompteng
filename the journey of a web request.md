@@ -33,6 +33,7 @@ When you type a URL in your browser and press Enter, a fascinating journey begin
   - The client receives the SYN-ACK packet and responds with an **ACK** packet.
   - This ACK packet acknowledges the server's sequence number.
   - Once the server receives this ACK, the TCP connection is established, and data transfer can begin.
+    
  
     ![Image](https://github.com/user-attachments/assets/fc0d308f-6a00-46a5-acdd-7cad310ec442)
 
