@@ -16,7 +16,7 @@ When you type a URL in your browser and press Enter, a fascinating journey begin
   <!-- **TODO:**Complete the three-way handshake-->
   ### Three-Way Handshake Process
 
-  The three-way handshake is a process that establishes a reliable connection between the client and server before the data transmission using three steps:
+  The three-way handshake is a process that establishes a reliable connection between the client and server before the data transmission in three steps:
   
   **1. SYN (Synchronize)**
   - The client sends a **SYN** (synchronize) packet to the server.
@@ -25,7 +25,7 @@ When you type a URL in your browser and press Enter, a fascinating journey begin
 
   **2. SYN-ACK (Synchronize-Acknowledgment)**
   - The server receives the SYN packet and responds with a **SYN-ACK** packet.
-  - Two puposes are served via the SYN-ACK packet:
+  - Two purposes are served via the SYN-ACK packet:
     - It acknowledges the client's SYN request.
     - It also includes the server's own initial sequence number to synchronize communication.
   
